@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Delivery calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo for a calculator that is used to calculate delivery fees for a hypotethical delivery service.
 
 ## Available Scripts
 
